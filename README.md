@@ -17,4 +17,4 @@
 |---|---|
 |  The coder's computers |  [go to](reading_2.md) |
 | Learning markdown  | [go to](reading_1.md) |
-| Revisions and the cloud  |   |
+| Revisions and the cloud  |  [go to](reading_3.md) |
