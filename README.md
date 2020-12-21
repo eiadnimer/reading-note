@@ -15,6 +15,6 @@
 
 | reading topics | URLs |
 |---|---|
-|  The coder's computers |   |
-| Learning markdown  |   |
+|  The coder's computers |  [go to](reading_2.md) |
+| Learning markdown  | [go to](reading_1.md) |
 | Revisions and the cloud  |   |
