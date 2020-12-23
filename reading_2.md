@@ -1,3 +1,4 @@
+# The Coder's Computer
 there is a difference between each text editor .. all of them make the same job but the most important things to focus on are the code completion .. which allow you to start typing the codes and gives you some suggestions and shortcuts can helps you and makes your work faster ... for example Emmet.
 
 also, we have the syntax highlighting feature that’s can color the text and tells you where you make a mistake for example.
