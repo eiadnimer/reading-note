@@ -15,6 +15,6 @@
 
 | reading topics | URLs |
 |---|---|
-|  The coder's computers |  [go to](reading_2.md) |
+|  The coder's computers |  [go to](https://eiadnimer.github.io/reading-note/reading_2) |
 | Learning markdown  | [go to](reading_1.md) |
 | Revisions and the cloud  |  [go to](reading_3.md) |
