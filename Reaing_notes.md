@@ -6,4 +6,4 @@
 |---|---|
 | Learning markdown  | [go to](https://eiadnimer.github.io/reading-note/reading_1) |
 | The coder's computers |  [go to](https://eiadnimer.github.io/reading-note/reading_2) |
-| Revisions and the cloud  |  [go to](reading_3.md) |
+| Revisions and the cloud  |  [go to](https://eiadnimer.github.io/reading-note/reading_3.md) |
