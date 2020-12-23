@@ -1,3 +1,4 @@
+# Learning markdown
 -Markdown is a way to style text on the web. You can use it to formatting words as bold or italic, adding images, and creating lists. Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
 -Markdown is an easy way to use syntax for styling all forms of writing on the GitHub platform.
