@@ -9,3 +9,4 @@
 | Revisions and the cloud  |  [go to](https://eiadnimer.github.io/reading-note/reading_3) |
 | Structure web pages with HTML  |  [go to](https://eiadnimer.github.io/reading-note/reading_4) |
 | Dynamic web pages with JavaScript  |  [go to](https://eiadnimer.github.io/reading-note/reading_6a) |
+| Computer Architecture and Logic  |  [go to](https://eiadnimer.github.io/reading-note/reading_6b) |
