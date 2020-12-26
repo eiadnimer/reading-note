@@ -11,3 +11,4 @@
 | Dynamic web pages with JavaScript  |  [go to](https://eiadnimer.github.io/reading-note/reading_6a) |
 | Computer Architecture and Logic  |  [go to](https://eiadnimer.github.io/reading-note/reading_6b) |
 | Programming with JavaScript  |  [go to](https://eiadnimer.github.io/reading-note/reading_7) |
+| Operators and Loops  |  [go to](https://eiadnimer.github.io/reading-note/reading_8) |
