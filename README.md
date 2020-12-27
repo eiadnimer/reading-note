@@ -8,6 +8,7 @@
 | The coder's computers |  [go to](https://eiadnimer.github.io/reading-note/reading_2) |
 | Revisions and the cloud  |  [go to](https://eiadnimer.github.io/reading-note/reading_3) |
 | Structure web pages with HTML  |  [go to](https://eiadnimer.github.io/reading-note/reading_4) |
+| SDesign web pages with CSS  |  [go to](https://eiadnimer.github.io/reading-note/reading_5) |
 | Dynamic web pages with JavaScript  |  [go to](https://eiadnimer.github.io/reading-note/reading_6a) |
 | Computer Architecture and Logic  |  [go to](https://eiadnimer.github.io/reading-note/reading_6b) |
 | Programming with JavaScript  |  [go to](https://eiadnimer.github.io/reading-note/reading_7) |
